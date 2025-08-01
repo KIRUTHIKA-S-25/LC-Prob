@@ -18,5 +18,14 @@
       "Math",
       "Number Theory"
     ]
+  },
+  {
+    "id": 2894,
+    "title": "Divisible and Non-divisible Sums Difference",
+    "title_slug": "divisible-and-non-divisible-sums-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]
