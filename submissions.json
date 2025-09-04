@@ -32,6 +32,15 @@
     ]
   },
   {
+    "id": 2235,
+    "title": "Add Two Integers",
+    "title_slug": "add-two-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
