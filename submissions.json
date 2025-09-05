@@ -10,6 +10,17 @@
     ]
   },
   {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "title_slug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1512,
     "title": "Number of Good Pairs",
     "title_slug": "number-of-good-pairs",
