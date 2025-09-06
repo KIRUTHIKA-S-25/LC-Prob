@@ -21,6 +21,16 @@
     ]
   },
   {
+    "id": 136,
+    "title": "Single Number",
+    "title_slug": "single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 1512,
     "title": "Number of Good Pairs",
     "title_slug": "number-of-good-pairs",
