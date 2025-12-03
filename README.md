@@ -17,4 +17,5 @@
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | `Math` |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | `Math` |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | `Math` |
+| 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | Easy | `Array` `String` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | `String` |
