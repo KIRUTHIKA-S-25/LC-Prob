@@ -20,3 +20,4 @@
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | Easy | `Array` `String` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | `String` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | Easy | `Array` `Hash Table` |
+| 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |
