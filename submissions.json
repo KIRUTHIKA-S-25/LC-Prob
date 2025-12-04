@@ -126,5 +126,15 @@
     "skills": [
       "String"
     ]
+  },
+  {
+    "id": 3668,
+    "title": "Restore Finishing Order",
+    "title_slug": "restore-finishing-order",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]
