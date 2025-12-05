@@ -63,6 +63,17 @@
     ]
   },
   {
+    "id": 2011,
+    "title": "Final Value of Variable After Performing Operations",
+    "title_slug": "final-value-of-variable-after-performing-operations",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 2235,
     "title": "Add Two Integers",
     "title_slug": "add-two-integers",
