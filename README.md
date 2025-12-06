@@ -20,6 +20,7 @@
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | `Math` |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | Easy | `Array` `String` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | `String` |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy | `Array` `Math` |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | Easy | `Array` `Math` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | Easy | `Array` `Hash Table` |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |

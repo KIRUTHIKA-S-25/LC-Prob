@@ -139,6 +139,16 @@
     ]
   },
   {
+    "id": 3190,
+    "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+    "title_slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3512,
     "title": "Minimum Operations to Make Array Sum Divisible by K",
     "title_slug": "minimum-operations-to-make-array-sum-divisible-by-k",
